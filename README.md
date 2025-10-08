@@ -75,7 +75,7 @@ The project’s most valuable outcome was the identification and planning to res
 ## Project Structure
 
 ```
-galaxi-motor-tuning-portfolio/
+Motor-Tuning-Desktop-App-Version-1/
 │
 ├─ src/
 │   ├─ frontend/         # Electron + React application interface
